@@ -1,5 +1,5 @@
 # Coffee Sales Dashboard
-![Brown Modern Coffee Presentation](https://github.com/user-attachments/assets/7341e854-8942-4866-a30a-678be3c50cbe)
+![Brown Modern Coffee Presentation1](https://github.com/user-attachments/assets/21fb9f02-d469-475f-bcfe-e790ec67f7e1)
 
 ## Overview : 
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
