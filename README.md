@@ -1,5 +1,5 @@
 # Coffee Sales Dashboard
-![Banner](C:\Users\91853\Downloads\Brown Modern Coffee Presentation.png)
+![Banner](https://www.canva.com/design/DAGZ6Fzx6bQ/ud4F-xGxb30fzbbsogVoWA/edit?utm_content=DAGZ6Fzx6bQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ## Overview : 
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
 
